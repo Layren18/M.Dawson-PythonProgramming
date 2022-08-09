@@ -18,4 +18,4 @@ while guess != the_number:
     tries += 1
 
 print("Вы отгадали! Это действительно число", the_number)
-print("И вы это сделали за ", tries, "попыток!")
+print("И вы это сделали за ", tries, "попыток!") 
