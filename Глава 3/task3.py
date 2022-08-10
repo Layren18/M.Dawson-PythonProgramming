@@ -19,5 +19,5 @@ while tries <= 7:
         print("Больше...")
     guess = int(input("Назовите число: "))
     tries += 1
-if tries == 8:
+else:
     print("Вы проиграли. Было загадано число", the_number)
