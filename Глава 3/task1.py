@@ -1,9 +1,7 @@
 import random
 
 print("Хотите узнать какой пирожок вам положен?")
-a = " "
-while a != "":
-    a = input("Нажмите Enter чтобы продолжить ")
+a = input("Нажмите Enter чтобы продолжить ")
 
 n = random.randint(1, 5)
 if n == 1:

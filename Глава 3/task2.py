@@ -11,4 +11,4 @@ for i in range(100):
     else:
         reshka += 1
 
-print(f"Орел выпал {orel} раз, а решка {reshka} раз.")
+print(f"Орел выпал {orel} раз(а), а решка {reshka} раз(а).")
